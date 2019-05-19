@@ -11,7 +11,7 @@ setuptools.setup(
     description="Package to help you make crawlers easily",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/archit0/crawler_templates",
+    url="https://github.com/archit0/crawler-templates",
     packages=setuptools.find_packages(),
     classifiers=[
         'Framework :: Django',

@@ -2,7 +2,7 @@
 
 Crawler templates ease your crawling experience
 ```
-pip install git+https://github.com/archit0/crawler_templates.git
+pip install git+https://github.com/archit0/crawler-templates.git
 ```
 
 ## Parallel Crawler Example
